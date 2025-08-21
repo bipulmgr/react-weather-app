@@ -1,16 +1,5 @@
 # Awesome Weather Application
-# JJ Repo User Test
-# From main
-#Hhahshasasdasd
-asdasdasd
- Asd asd asd
- Asd asd asd as
- d as
- d as
- d 
- asd 
- as
- d asd 
+
 (Probably the best, free, and open-source weather app out there)
 
 ## A React application built with modern technologies
