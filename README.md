@@ -1,4 +1,4 @@
-# Awesome Weather Application Bipul Thapa Removed
+# Awesome Weather Application
 # From main
 
 (Probably the best, free, and open-source weather app out there)
