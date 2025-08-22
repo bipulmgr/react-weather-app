@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Awesome jhgjhgjhgjhg
-=======
 # Awesome
->>>>>>> 6475d3e32a94793da117e815873cc69dbf6cd6de
 
 (Probably the best, free, and open-source weather app out there)
 
