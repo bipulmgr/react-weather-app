@@ -1,4 +1,4 @@
-# Awesome Application
+# Awesome Application for Weather Forecasting
 
 (Probably the best, free, and open-source weather app out there)
 
