@@ -1,6 +1,6 @@
 # Awesome Application for Weather 
 
-![Weather App](https://github.com/adedoyin-emmanuel/weather-app/blob/master/public/images/weather-app.png?raw=true)
+![Test Weather App](https://github.com/adedoyin-emmanuel/weather-app/blob/master/public/images/weather-app.png?raw=true)
 
 (Probably the best, free, and open-source weather app out there)
 
