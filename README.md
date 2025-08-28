@@ -1,6 +1,7 @@
 # Awesome Application for Weather 
-Tested
-#asdasds
+
+![Weather App](https://github.com/adedoyin-emmanuel/weather-app/blob/master/public/images/weather-app.png?raw=true)
+
 (Probably the best, free, and open-source weather app out there)
 
 ## A React application built with modern technologies
