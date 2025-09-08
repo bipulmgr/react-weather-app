@@ -6,6 +6,8 @@
 
 ## A React application built with modern technologies
 
+asdasd
+
 ### Application Features
 
 1. Track the atmospheric conditions of any country or city.
